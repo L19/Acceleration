@@ -1,0 +1,12 @@
+/Users/riku/Projects/UnityProjects/Acceleration/Temp/bin/Debug/UnityEngine.dll
+/Users/riku/Projects/UnityProjects/Acceleration/Temp/bin/Debug/UnityEditor.dll
+/Users/riku/Projects/UnityProjects/Acceleration/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/riku/Projects/UnityProjects/Acceleration/Temp/bin/Debug/Mono.Cecil.dll
+/Users/riku/Projects/UnityProjects/Acceleration/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/riku/Projects/UnityProjects/Acceleration/Temp/bin/Debug/Unity.DataContract.dll
+/Users/riku/Projects/UnityProjects/Acceleration/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/riku/Projects/UnityProjects/Acceleration/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/riku/Projects/UnityProjects/Acceleration/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/riku/Projects/UnityProjects/Acceleration/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/riku/Projects/UnityProjects/Acceleration/obj/Debug/Assembly-CSharp.dll
+/Users/riku/Projects/UnityProjects/Acceleration/obj/Debug/Assembly-CSharp.dll.mdb
